@@ -1,0 +1,23 @@
+[
+  {
+    "MonedaBase": "MXN",
+    "MonedaTarget": "UYU",
+    "Monto": 4630.0,
+    "TasaDeConversion": 2.1812,
+    "MontoConvertido": 10098.956
+  },
+  {
+    "MonedaBase": "MXN",
+    "MonedaTarget": "USD",
+    "Monto": 100.0,
+    "TasaDeConversion": 0.05276,
+    "MontoConvertido": 5.276
+  },
+  {
+    "MonedaBase": "JPY",
+    "MonedaTarget": "PEN",
+    "Monto": 700.0,
+    "TasaDeConversion": 0.02512,
+    "MontoConvertido": 17.584
+  }
+]
